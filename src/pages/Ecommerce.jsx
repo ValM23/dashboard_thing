@@ -99,7 +99,7 @@ const Ecommerce = () => {
                 width="250px"
                 data={SparklineAreaData}
                 color="blue"
-                />
+                 />
               </div>
 
               </div>
